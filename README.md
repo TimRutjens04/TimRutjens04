@@ -4,7 +4,7 @@
 
 * 🧬 ML systems, model internals, optimization
 * 🧠 Math foundations (linear algebra, calculus, probability)
-* ⚙️ Systems programming in **Rust** and **C**
+* ⚙️ Systems programming in and **C++**
 * ☁️ Cloud-native tooling + distributed compute
 * 🔍 Research-oriented workflows
 * 🛡️ Mild cyber curiosity (future side-quest)
@@ -16,7 +16,7 @@
 ## ⚙️ Stack Trace
 
 ```
-[core]     Python | Rust | C | Elm 
+[core]     Python | Rust | C++ | Elm 
 [ai]       PyTorch | NumPy | Scikit-Learn
 [cloud]    Azure | Docker | K8s | GitHub Actions
 [tools]    Bash | LaTeX 
