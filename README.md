@@ -4,7 +4,7 @@
 
 * 🧬 ML systems, model internals, optimization
 * 🧠 Math foundations (linear algebra, calculus, probability)
-* ⚙️ Systems programming in and **C++**
+* ⚙️ Systems programming in **C++** and going to look into **Rust**
 * ☁️ Cloud-native tooling + distributed compute
 * 🔍 Research-oriented workflows
 * 🛡️ Mild cyber curiosity (future side-quest)
